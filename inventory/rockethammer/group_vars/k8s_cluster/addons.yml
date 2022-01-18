@@ -160,7 +160,7 @@ cert_manager_enabled: false
 metallb_enabled: true
 metallb_speaker_enabled: true
 metallb_ip_range:
-  - "192.168.50.31-192.168.50.32"
+  - "192.168.50.31-192.168.50.33"
 # metallb_pool_name: "loadbalanced"
 # matallb_auto_assign: true
 # metallb_speaker_nodeselector:
